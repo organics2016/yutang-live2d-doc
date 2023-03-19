@@ -32,3 +32,4 @@ venv
 /live/nlp/*.txt
 
 *.sqlite3
+*.pdf
